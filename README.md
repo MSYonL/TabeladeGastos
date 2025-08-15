@@ -15,27 +15,5 @@ Aplicação Java para controle de gastos pessoais. Permite cadastrar despesas, v
 - Java 11+
 - Eclipse IDE
 - Swing (interface gráfica)
-- [Adicione aqui: JDBC, SQLite, etc. — se aplicável]
 
-## 📦 Como executar
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/MSYonL/TabeladeGastos.git
-
-
-- Importe o projeto no Eclipse como um projeto Java existente.
-- Execute a classe principal:
-src/main/java/com/seuPacote/Main.java
-📁 Estrutura do projetoTabeladeGastos/
-├── src/
-│   └── main/
-│       └── java/
-│           └── com/
-│               └── seuPacote/
-│                   ├── Main.java
-│                   ├── Gastos.java
-│                   └── Relatorio.java
-├── README.md
-└── .gitignore
-🤝 ContribuiçõesContribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
