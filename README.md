@@ -38,4 +38,4 @@ src/main/java/com/seuPacote/Main.java
 │                   └── Relatorio.java
 ├── README.md
 └── .gitignore
-🤝 ContribuiçõesContribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.📄 LicençaEste projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+🤝 ContribuiçõesContribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
