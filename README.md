@@ -37,4 +37,5 @@ O projeto utiliza tecnologias consolidadas do ecossistema Java para garantir est
 ​Como parte do meu aprendizado contínuo, planejo:
 ​[ ] Implementar persistência de dados em banco de dados MySQL.
 ​[ ] Criar uma versão mobile deste projeto utilizando Kotlin e Jetpack Compose.
+
 ​Desenvolvido com foco em organização e tecnologia por Mauricio Ribas
